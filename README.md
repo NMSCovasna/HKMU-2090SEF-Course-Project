@@ -11,7 +11,30 @@ We are currently working on designing a portable student calendar program using 
 *WIP:GUI Interface*
 Only used for verifying the save function: This module aims to deal with the problem that program delete all stored todo list parameters automatically after user closed the program.
 
+<h1>Features</h1>
+
+    <script>
+    class CalendarTodoApp(tk.Tk):
+    def __init__(self):
+        super().__init__()
+        self.title(APP_NAME)
+        self.geometry("920x560")
+        self.minsize(860, 500)
+
+        self.store = TodoStore(DATA_FILE)
+
+        today = date.today()
+        self.current_year = today.year
+        self.current_month = today.month
+        self.selected_day = today
+
+        self._build_ui()
+        self._render_calendar()
+        self._refresh_todo_list()
+     </script>
+    We used the most concise architecture possible to write the GUI. Self-calling fuctions have been used inside it.
+
+
 <h1>What's Next</h1>  
 
 <b>Advanced supporting methods</b> is still in planning status.
-
