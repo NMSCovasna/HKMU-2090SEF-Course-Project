@@ -13,6 +13,7 @@ Only used for verifying the save function: This module aims to deal with the pro
 
 <h2>Features</h2>
 
+1."CalendarTodoApp" : Lightweight initialization calendar module
    ``` python
     class CalendarTodoApp(tk.Tk):
     def __init__(self):
@@ -31,9 +32,28 @@ Only used for verifying the save function: This module aims to deal with the pro
         self._build_ui()
         self._render_calendar()
         self._refresh_todo_list()
-   ```
     
     We used the most concise architecture possible to write the GUI. Self-calling fuctions have been used inside it.
+
+2.Encapsulation&Composition in calendar data storing
+``` python
+class TodoStore:
+    def __init__(self, file_path: Path):
+        self.file_path = file_path
+        self.data: dict[str, list[TodoItem]] = {}
+        self.ensure_data_dir()
+        self.load()
+
+    def ensure_data_dir(self):
+        self.file_path.parent.mkdir(parents=True, exist_ok=True)
+
+    def load(self):
+        if not self.file_path.exists():
+            self.data = {}
+            self.save()
+            return
+
+In order to prevent data from being easily lost when closing the program, we created "TodoStore" and established a long-term storage module using instantiated objects and other methods.
 
 
 <h2>What's Next</h2>  
