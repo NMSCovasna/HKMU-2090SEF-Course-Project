@@ -32,6 +32,7 @@ Only used for verifying the save function: This module aims to deal with the pro
         self._build_ui()
         self._render_calendar()
         self._refresh_todo_list()
+```
     
     We used the most concise architecture possible to write the GUI. Self-calling fuctions have been used inside it.
 
@@ -52,6 +53,7 @@ class TodoStore:
             self.data = {}
             self.save()
             return
+```
 
 In order to prevent data from being easily lost when closing the program, we created "TodoStore" and established a long-term storage module using instantiated objects and other methods.
 
