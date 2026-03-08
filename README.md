@@ -33,10 +33,9 @@ Only used for verifying the save function: This module aims to deal with the pro
         self._render_calendar()
         self._refresh_todo_list()
 ```
-    
-    We used the most concise architecture possible to write the GUI. Self-calling fuctions have been used inside it.
+We used the most concise architecture possible to write the GUI. Self-calling fuctions have been used inside it.
 
-2.Encapsulation&Composition in calendar data storing
+2.Encapsulation & Composition in calendar data storing
 ``` python
 class TodoStore:
     def __init__(self, file_path: Path):
@@ -55,7 +54,7 @@ class TodoStore:
             return
 ```
 
-In order to prevent data from being easily lost when closing the program, we created "TodoStore" and established a long-term storage module using instantiated objects and other methods.
+In order to prevent data from being easily lost when closing the program, we created "TodoStore" module and established a long-term storage module using instantiated objects and other methods.
 
 
 <h2>What's Next</h2>  
