@@ -96,9 +96,7 @@ In future development we have planned to design a feature that can repeat <b>mul
 
 <h1>Task 2</h1>
 
-Introduction video link:
-
-https://youtu.be/SKbjTGjeZEY
+Introduction video link: https://youtu.be/SKbjTGjeZEY
 
 <h2>A) Binary Tree Data Structure</h2>
 
