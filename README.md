@@ -30,7 +30,8 @@ https://www.youtube.com/watch?v=UgC0Jx-LBA4 (Incompleted)
 <img width="1028" height="622" alt="image" src="https://github.com/user-attachments/assets/431c65f9-df81-47c8-b8fd-37d0b5f5f347" />
 
 *GUI Interface*
-Only used for verifying the save function: This module aims to deal with the problem that program delete all stored todo list parameters automatically after user closed the program.
+
+Completed GUI demonstration: Compared to the development version, it adds import/export functionality, dark mode switching functionality, toggle functionality, some minor features, and a more concise and organized main interface.
 
 <h2>Features</h2>
 
@@ -80,7 +81,8 @@ In order to prevent data from being easily lost when closing the program, we cre
 
 <h2>What's Next</h2>  
 
-<b>Advanced supporting methods</b> is still in planning status.
+<b>Advanced supporting methods</b> may use in future development.
+
 In future development we have planned to design a feature that can repeat <b>multiple cycles</b>, rather than displaying it all at once.
 
 
