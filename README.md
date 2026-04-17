@@ -3,11 +3,13 @@ Task1&amp;Task2
 
 HKMU COMP2090SEF GRP_105
 
-This Project is mainly use for the 2090SEF course project (Preliminary code submission).
+This Project is mainly use for the 2090SEF course project (Preliminary code& Final code submission).
 
 Contributors:
 14239505 CHAN Tsz Shun
+
 14251198 Ding Xingxi
+
 14276090 YU Haoxiang
 
 
@@ -22,6 +24,7 @@ Contributors:
 4. Directly running the program in IDEs
 
 Introduction video link : 
+
 https://youtu.be/-rIxVfAVtuc <b>(Recommended)</b>
 
 https://www.youtube.com/watch?v=UgC0Jx-LBA4 (Incompleted)
@@ -32,6 +35,9 @@ https://www.youtube.com/watch?v=UgC0Jx-LBA4 (Incompleted)
 *GUI Interface*
 
 Completed GUI demonstration: Compared to the development version, it adds import/export functionality, dark mode switching functionality, toggle functionality, some minor features, and a more concise and organized main interface.
+
+<img width="1840" height="1176" alt="5adbfec5df148a0bf8b245ebbffcd0e8" src="https://github.com/user-attachments/assets/36230341-10d1-4f40-ab85-12860e512e97" />
+*WIP GUI Interface In March*
 
 <h2>Features</h2>
 
