@@ -102,6 +102,8 @@ A non-linear and hierarchincal conceptual model where every node has at most two
 
 <h2>User Guide (how to run Python code)</h2>
 
+Question: How to use Binary tree data structure to create a binary tree of the below picture? 
+
 <h2>B) Shell Sort Algorithm</h2>
 
 An in-place comparison sort which allows elements exchange in datasets by comparing through larger distances in initial stages, and reduce gap size and required swaps times to catalytic the process. 
