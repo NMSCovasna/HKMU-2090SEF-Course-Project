@@ -104,6 +104,8 @@ A non-linear and hierarchincal conceptual model where every node has at most two
 
 Question: How to use Binary tree data structure to create a binary tree of the below picture? 
 
+![image alt](https://github.com/keithchan527-glitch/COMP2090SEF-Course-Project/blob/main/WhatsApp%20Image%202026-04-17%20at%209.27.56%20AM.jpeg?raw=true)
+
 <h2>B) Shell Sort Algorithm</h2>
 
 An in-place comparison sort which allows elements exchange in datasets by comparing through larger distances in initial stages, and reduce gap size and required swaps times to catalytic the process. 
