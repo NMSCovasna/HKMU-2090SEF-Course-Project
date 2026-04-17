@@ -21,8 +21,8 @@ Contributors:
 <h2>User Guide (how to run Python code)</h2>
 
 1. Download the original .py file called "calendarv5" on the main page
-2. Use IDEs (e.g. Visual Studio Code, Pytharm) to open it
-3. Select debugging mode
+2. Use IDEs (e.g. Visual Studio Code, Pycharm) to open it
+3. Click "View" and Select debugging mode (shortcut:F5)
 4. Directly running the program in IDEs
 
 Introduction video link : 
