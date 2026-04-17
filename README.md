@@ -1,4 +1,4 @@
-# -WIP-HKMU-2090SEF-Course-Project
+# HKMU-2090SEF-Course-Project
 Task1&amp;Task2
 
 HKMU COMP2090SEF GRP_105
