@@ -106,6 +106,18 @@ Question: How to use Binary tree data structure to create a binary tree of the b
 
 ![image alt](https://github.com/keithchan527-glitch/COMP2090SEF-Course-Project/blob/main/WhatsApp%20Image%202026-04-17%20at%209.27.56%20AM.jpeg?raw=true)
 
+Pricinple: Ensure each node has at most two children.
+
+Step 1: Define the node structure with contain data(value) by create "class".
+
+Step 2: Establish the first node as "root" and linking subsequent nodes hierachically with both left and right child pointer. 
+
+        -> Setting both left and right pointers to "None" initially.
+
+``` python
+A
+```
+
 <h2>B) Shell Sort Algorithm</h2>
 
 An in-place comparison sort which allows elements exchange in datasets by comparing through larger distances in initial stages, and reduce gap size and required swaps times to catalytic the process. 
