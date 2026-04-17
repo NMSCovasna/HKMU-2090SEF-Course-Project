@@ -1,11 +1,13 @@
 # HKMU-2090SEF-Course-Project
-Task1&amp;Task2
+
+<b>Task1&amp;Task2</b>
 
 HKMU COMP2090SEF GRP_105
 
 This Project is mainly use for the 2090SEF course project (Preliminary code& Final code submission).
 
 Contributors:
+
 14239505 CHAN Tsz Shun
 
 14251198 Ding Xingxi
