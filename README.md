@@ -16,12 +16,12 @@ Contributors:
 
 <h2>User Guide (how to run Python code)</h2>
 
-1. Download the original .py file called"calendarv5" on the main page
+1. Download the original .py file called "calendarv5" on the main page
 2. Use IDEs (e.g. Visual Studio Code, Pytharm) to open it
 3. Select debugging mode
 4. Directly running the program in IDEs
 
-<b>Demo video is directly uploaded on the main page.</b> file name: demovideo.mp4
+introduction video link : https://youtu.be/UgC0Jx-LBA4
 
 
 We are currently working on designing a portable student calendar program using OOP framework, which allows users to select dates and add to-do lists. The complete functionality is still under development and the code is not yet completed.
