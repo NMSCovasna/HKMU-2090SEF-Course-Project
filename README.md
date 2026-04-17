@@ -23,10 +23,9 @@ Contributors:
 
 Introduction video link : 
 https://youtu.be/-rIxVfAVtuc <b>(Recommended)</b>
+
 https://www.youtube.com/watch?v=UgC0Jx-LBA4 (Incompleted)
 
-
-We are currently working on designing a portable student calendar program using OOP framework, which allows users to select dates and add to-do lists. 
 
 <img width="1028" height="622" alt="image" src="https://github.com/user-attachments/assets/431c65f9-df81-47c8-b8fd-37d0b5f5f347" />
 
