@@ -24,10 +24,11 @@ Contributors:
 Introduction video link : [https://youtu.be/UgC0Jx-LBA4](https://youtu.be/-rIxVfAVtuc)
 
 
-We are currently working on designing a portable student calendar program using OOP framework, which allows users to select dates and add to-do lists. The complete functionality is still under development and the code is not yet completed.
+We are currently working on designing a portable student calendar program using OOP framework, which allows users to select dates and add to-do lists. 
 
-<img width="1840" height="1176" alt="e5dc419a92061c4cc43c8836638855b4" src="https://github.com/user-attachments/assets/a140bea7-32c6-4ad6-925e-0f54e616d1ca" />
-*WIP:GUI Interface*
+<img width="1028" height="622" alt="image" src="https://github.com/user-attachments/assets/431c65f9-df81-47c8-b8fd-37d0b5f5f347" />
+
+*GUI Interface*
 Only used for verifying the save function: This module aims to deal with the problem that program delete all stored todo list parameters automatically after user closed the program.
 
 <h2>Features</h2>
@@ -79,7 +80,7 @@ In order to prevent data from being easily lost when closing the program, we cre
 <h2>What's Next</h2>  
 
 <b>Advanced supporting methods</b> is still in planning status.
-The current focus is on <b>establishing a timeline</b> in the future and designing a feature that can repeat multiple cycles, rather than displaying it all at once.
+In future development we have planned to design a feature that can repeat <b>multiple cycles</b>, rather than displaying it all at once.
 
 
 <h1>Task 2</h1>
