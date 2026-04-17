@@ -21,7 +21,8 @@ Contributors:
 3. Select debugging mode
 4. Directly running the program in IDEs
 
-Introduction video link : [https://youtu.be/UgC0Jx-LBA4](https://youtu.be/-rIxVfAVtuc)
+Introduction video link : [https://youtu.be/UgC0Jx-LBA4](https://youtu.be/-rIxVfAVtuc)(Recommended)
+                          https://www.youtube.com/watch?v=UgC0Jx-LBA4(Incompleted)
 
 
 We are currently working on designing a portable student calendar program using OOP framework, which allows users to select dates and add to-do lists. 
